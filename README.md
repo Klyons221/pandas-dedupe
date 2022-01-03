@@ -1,5 +1,5 @@
 # pandas-dedupe
-EST
+ESTzzz
 The Dedupe library made easy with Pandas.
 
 # Installation
