@@ -1,5 +1,5 @@
 # pandas-dedupe
-TEST
+EST
 The Dedupe library made easy with Pandas.
 
 # Installation
